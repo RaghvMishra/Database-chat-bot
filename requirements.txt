@@ -1,0 +1,12 @@
+flask
+requests
+sqlalchemy
+pymysql
+psycopg2
+# cx_oracle
+pymongo
+python-dotenv
+openai
+langchain
+tiktoken
+flask-cors
